@@ -1,0 +1,17 @@
+h1{
+    color: #00BFFF;
+    font-size:18px;
+    }
+h2{
+    color: #A52A2A;
+    font-size:14px;
+}
+p{
+    font-size:12px;
+}
+a:hover{
+    color:#FFC0CB;
+}
+li.ind{
+    text-indent: 1.5em;
+}
