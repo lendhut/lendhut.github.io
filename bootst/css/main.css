@@ -1,0 +1,9 @@
+.bg-me{
+    background-color: rgb(55, 53, 167);
+}
+
+.carousel-control-next-icon, 
+.carousel-control-prev-icon{
+    width: 120px;
+    height: 120px;
+}
